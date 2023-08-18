@@ -54,7 +54,7 @@
 	"skills": [
 		{
 			"name": "Développeur Frontend",
-			"level": "Avancé",
+			"level": "Moyen",
 			"keywords": [
 				"HTML / JSX",
 				"CSS / SCSS, TailwindCSS",
@@ -65,7 +65,7 @@
 		},
 		{
 			"name": "Développeur Backend",
-			"level": "Avancé",
+			"level": "Moyen",
 			"keywords": [
 				"NodeJS",
 				"ExpressJS",
@@ -77,7 +77,7 @@
 		},
 		{
 			"name": "Développeur Mobile",
-			"level": "Avancé",
+			"level": "Moyen",
 			"keywords": [
 				"Flutter",
 				"Firebase",
