@@ -1,0 +1,158 @@
+{
+	"meta": {
+		"theme": "elegant"
+	},
+	"basics": {
+		"name": "Charles DZADU",
+		"label": "Développeur Web et Mobile",
+		"picture": "https://avatars.githubusercontent.com/u/63238348?v=4",
+		"summary": "Je suis un développeur web full stack qui peut construire des applications à partir de la base. J'ai travaillé principalement dans des startups et j'ai donc l'habitude de porter plusieurs casquettes. Je suis un développeur très axé sur le produit qui privilégie avant tout le retour d'information de l'utilisateur. Je suis généralement très flexible lorsque j'étudie de nouveaux rôles.",
+		"website": "https://dzadu.dev",
+		"email": "charles@dzadu.dev",
+		"phone": "+228 92569918",
+		"location": {
+			"address": "Lomé, Togo",
+			"postalCode": "BP 801",
+			"city": "Lomé",
+			"countryCode": "TG",
+			"region": "Région Maritime"
+		},
+		"profiles": [
+			{
+				"network": "LinkedIn",
+				"username": "charlesdzadu",
+				"url": "https://www.linkedin.com/in/charlesdzadu/"
+			},
+			{
+				"network": "GitHub",
+				"username": "charlesdzadu",
+				"url": "https://github.com/charlesdzadu"
+			},
+			{
+				"network": "Twitter",
+				"username": "charlesdzadu",
+				"url": "https://twitter.com/charlesdzadu"
+			}
+		]
+	},
+	"education": [
+		{
+			"institution": "Université de Lomé",
+			"area": "Licence en Mathématiques et Informatique",
+			"studyType": "Licence",
+			"startDate": "2016-10-01",
+			"endDate": "2020-07-01",
+			"score": "Mention Bien"
+		}
+	],
+	"references": [
+		{
+			"name": "Cyrille Ahlonko",
+			"reference": "Charles a été recruter comme développeur web et mobile dans notre startup. Il a été très efficace et a su s'adapter à notre environnement de travail. Il a été très productif et a su apporter des solutions à nos problèmes. Il a été très apprécié par toute l'équipe."
+		}
+	],
+	"skils": [
+		{
+			"name": "Développeur Frontend",
+			"level": "Avancé",
+			"keywords": [
+				"HTML / JSX",
+				"CSS / SCSS, TailwindCSS",
+				"JavaScript / TypeScript",
+				"VueJS / NuxtJS",
+				"Pinia / Vuex"
+			]
+		},
+		{
+			"name": "Développeur Backend",
+			"level": "Avancé",
+			"keywords": [
+				"NodeJS",
+				"ExpressJS",
+				"PHP / Laravel",
+				"Python / FastAPI",
+				"MySQL / PostgreSQL",
+				"NoSQL / MongoDB"
+			]
+		},
+		{
+			"name": "Développeur Mobile",
+			"level": "Avancé",
+			"keywords": [
+				"Flutter",
+				"Firebase",
+				"Android",
+				"iOS"
+			]
+		},
+		{
+			"name": "DevOps",
+			"level": "Avancé",
+			"keywords": [
+				"Git / GitHub",
+				"Linux",
+				"Docker"
+			]
+		}
+	],
+	"awards": [
+		{
+			"title": "Meilleur Prix d'une solution innovante",
+			"date": "2023-01-30",
+			"awarder": "PNUD - Ministère de la jeunesse et de l'emploi",
+			"summary": "J'ai remporté le prix de la meilleurs solutions innovante dans le digitale avec la solution Makifaa qui est une banque d'image typiquement africaine."
+		}
+	],
+	"work": [
+		{
+			"summary": "L'identité de l'Afrique manque cruellement dans la communication digitale. J'ai donc crée une banque d'image typiquement africaine pour mettre en relation les professionnel de la photo et les entreprises  de communications dans le but de promouvoir l'image de l'Afrique.",
+			"website": "https://makifaa.com",
+			"name": "Makifaa",
+			"position": "Développeur Fullstack",
+			"location": "Lomé - Togo",
+			"startDate": "2023-03-05",
+			"endDate": "2023-07-05",
+			"highlights": [
+				"VueJS /  NuxtJS",
+				"TailwindCSS",
+				"Docker / Docker Compose",
+				"Design de l'application web avec Figma",
+				"Réduction du temps de chargement des images de 3 minutes à seulement 9 secondes par image, avec l’intégration d’IA de reconnaissance d’image améliorant l'efficacité de téléchargement pour les utilisateurs",
+				"Configuration complète d'un serveur Linux avec NGINX pour le déploiement du projet via Docker, aboutissant à un site extrêmement rapide, augmentant ainsi le taux de visite.",
+				"Mise en place de MeiliSearch pour optimiser les recherches d'images, offrant des résultats pertinents et rapides, améliorant l'expérience utilisateur.",
+				"Mise en œuvre de stratégies SEO efficaces, résultant en une augmentation de 60 % du trafic organique mensuel et un positionnement dans le top 3 des moteurs de recherche pour des mots-clés clés."
+
+			]
+		},
+		{
+			"name" : "Ufami Group",
+			"position": "Développeur Mobile",
+			"summary": "Ufami est une application mobile d'ecommerce avec la particularité de proposer les paiements échelonnée. J'ai développé plusieurs applications mobiles, dont l'application mobile Ufami pour les utilisateurs et UfEnergy pour les commerciaux.",
+			"website": "https://play.google.com/store/apps/details?id=com.ufami.general&pli=1",
+			"startDate": "2021-03-05",
+			"endDate": "2023-05-23",
+			"highlights": [
+				"Flutter",
+				"Firebase",
+				"Android",
+				"iOS",
+				"Réalisation d'une suite d'applications mobiles E-commerce avec une fonctionnalité unique de paiements échelonnés, mettant en œuvre des solutions techniques pour gérer les transactions complexes.",
+				"Développement de modules personnalisés pour stimuler les ventes, améliorant les taux de conversion de 30 % et optimisant l'expérience d'achat des utilisateurs.",
+				"Création d'un système de rappels automatisés qui a augmenté les paiements ponctuels de 25 % en notifiant les utilisateurs, renforçant ainsi la rentabilité de la plateforme."
+
+
+			]
+		}
+	],
+	"interests": [
+		{
+			"name": "Open Source"
+		},
+		{
+			"name": "Réalité Virtuelle / Augmentée"
+		},
+		{
+			"name": "Lecture"
+		}
+	]
+}
