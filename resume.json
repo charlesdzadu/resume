@@ -6,7 +6,7 @@
 		"name": "Charles DZADU",
 		"label": "Développeur Web et Mobile",
 		"picture": "https://avatars.githubusercontent.com/u/63238348?v=4",
-		"summary": "Je suis un développeur web full stack qui peut construire des applications à partir de la base. J'ai travaillé principalement dans des startups et j'ai donc l'habitude de porter plusieurs casquettes. Je suis un développeur très axé sur le produit qui privilégie avant tout le retour d'information de l'utilisateur. Je suis généralement très flexible lorsque j'étudie de nouveaux rôles.",
+		"summary": "Je suis un développeur web full stack capable de construire des applications de A à Z. J'ai principalement travaillé au sein de startups, ce qui m'a habitué à porter plusieurs casquettes. Je suis un développeur axé sur le produit, plaçant avant tout l'expérience utilisateur au cœur de mes préoccupations. Je suis également très adaptable lorsque je découvre de nouveaux rôles.",
 		"website": "https://dzadu.dev",
 		"email": "charles@dzadu.dev",
 		"phone": "+228 92569918",
@@ -38,7 +38,7 @@
 	"education": [
 		{
 			"institution": "Université de Lomé",
-			"area": "Licence en Mathématiques et Informatique",
+			"area": "Mathématiques et Informatique",
 			"studyType": "Licence",
 			"startDate": "2016-10-01",
 			"endDate": "2020-07-01",
@@ -48,7 +48,7 @@
 	"references": [
 		{
 			"name": "Cyrille Ahlonko",
-			"reference": "Charles a été recruter comme développeur web et mobile dans notre startup. Il a été très efficace et a su s'adapter à notre environnement de travail. Il a été très productif et a su apporter des solutions à nos problèmes. Il a été très apprécié par toute l'équipe."
+			"reference": "Charles a été recruté en tant que développeur web et mobile dans notre startup. Il s'est montré très efficace et a su s'adapter à notre environnement de travail. Sa productivité et sa capacité à apporter des solutions à nos problèmes ont été grandement appréciées par toute l'équipe."
 		}
 	],
 	"skills": [
@@ -97,15 +97,15 @@
 	],
 	"awards": [
 		{
-			"title": "Meilleur Prix d'une solution innovante",
+			"title": "Prix de la Meilleure Solution Innovante",
 			"date": "2023-01-30",
-			"awarder": "PNUD - Ministère de la jeunesse et de l'emploi",
-			"summary": "J'ai remporté le prix de la meilleurs solutions innovante dans le digitale avec la solution Makifaa qui est une banque d'image typiquement africaine."
+			"awarder": "PNUD - Ministère de la Jeunesse et de l'Emploi",
+			"summary": "J'ai remporté le prix de la meilleure solution innovante dans le domaine du numérique avec Makifaa, une banque d'images typiquement africaine."
 		}
 	],
 	"work": [
 		{
-			"summary": "L'identité de l'Afrique manque cruellement dans la communication digitale. J'ai donc crée une banque d'image typiquement africaine pour mettre en relation les professionnel de la photo et les entreprises  de communications dans le but de promouvoir l'image de l'Afrique.",
+			"summary": "L'identité de l'Afrique est trop souvent absente de la communication digitale. J'ai créé une banque d'images typiquement africaine pour connecter les professionnels de la photographie aux entreprises de communication, dans le but de promouvoir l'image de l'Afrique.",
 			"website": "https://makifaa.com",
 			"name": "Makifaa",
 			"position": "Développeur Fullstack",
@@ -113,21 +113,20 @@
 			"startDate": "2023-03-05",
 			"endDate": "2023-07-05",
 			"highlights": [
-				"VueJS /  NuxtJS",
+				"VueJS / NuxtJS",
 				"TailwindCSS",
 				"Docker / Docker Compose",
 				"Design de l'application web avec Figma",
-				"Réduction du temps de chargement des images de 3 minutes à seulement 9 secondes par image, avec l’intégration d’IA de reconnaissance d’image améliorant l'efficacité de téléchargement pour les utilisateurs",
-				"Configuration complète d'un serveur Linux avec NGINX pour le déploiement du projet via Docker, aboutissant à un site extrêmement rapide, augmentant ainsi le taux de visite.",
-				"Mise en place de MeiliSearch pour optimiser les recherches d'images, offrant des résultats pertinents et rapides, améliorant l'expérience utilisateur.",
-				"Mise en œuvre de stratégies SEO efficaces, résultant en une augmentation de 60 % du trafic organique mensuel et un positionnement dans le top 3 des moteurs de recherche pour des mots-clés clés."
-
+				"Réduction du temps de chargement des images de 3 minutes à seulement 9 secondes par image grâce à l'intégration d'une IA de reconnaissance d'images, améliorant ainsi l'efficacité du téléchargement pour les utilisateurs",
+				"Configuration complète d'un serveur Linux avec NGINX pour le déploiement du projet via Docker, aboutissant à un site extrêmement rapide et augmentant le taux de visite.",
+				"Mise en place de MeiliSearch pour optimiser les recherches d'images, offrant des résultats pertinents et rapides et améliorant l'expérience utilisateur.",
+				"Mise en œuvre de stratégies SEO efficaces, entraînant une augmentation de 60 % du trafic organique mensuel et un positionnement dans le top 3 des moteurs de recherche pour des mots-clés clés."
 			]
 		},
 		{
-			"name" : "Ufami Group",
+			"name": "Ufami Group",
 			"position": "Développeur Mobile",
-			"summary": "Ufami est une application mobile d'ecommerce avec la particularité de proposer les paiements échelonnée. J'ai développé plusieurs applications mobiles, dont l'application mobile Ufami pour les utilisateurs et UfEnergy pour les commerciaux.",
+			"summary": "Ufami est une application mobile d'e-commerce avec une particularité : elle propose des paiements échelonnés. J'ai développé plusieurs applications mobiles, dont l'application mobile Ufami pour les utilisateurs et UfEnergy pour les commerciaux.",
 			"website": "https://play.google.com/store/apps/details?id=com.ufami.general&pli=1",
 			"startDate": "2021-03-05",
 			"endDate": "2023-05-23",
@@ -136,11 +135,9 @@
 				"Firebase",
 				"Android",
 				"iOS",
-				"Réalisation d'une suite d'applications mobiles E-commerce avec une fonctionnalité unique de paiements échelonnés, mettant en œuvre des solutions techniques pour gérer les transactions complexes.",
+				"Création d'une série d'applications mobiles e-commerce avec une fonctionnalité unique de paiements échelonnés, implémentant des solutions techniques pour gérer des transactions complexes.",
 				"Développement de modules personnalisés pour stimuler les ventes, améliorant les taux de conversion de 30 % et optimisant l'expérience d'achat des utilisateurs.",
-				"Création d'un système de rappels automatisés qui a augmenté les paiements ponctuels de 25 % en notifiant les utilisateurs, renforçant ainsi la rentabilité de la plateforme."
-
-
+				"Création d'un système de rappels automatisés, augmentant les paiements ponctuels de 25 % en notifiant les utilisateurs, renforçant ainsi la rentabilité de la plateforme."
 			]
 		}
 	],
